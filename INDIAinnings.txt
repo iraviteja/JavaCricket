@@ -1,0 +1,14 @@
+Player	Score	Ballsfaced	Status
+S Sreesanth	34	10	NOT OUT
+R Dravid	28	10	NOT OUT
+YK Pathan	0	0	NOT PLAYED
+Yuvraj Singh	0	0	NOT PLAYED
+V Sehwag	0	0	NOT PLAYED
+A Nehra	0	0	NOT PLAYED
+SK Raina	0	0	NOT PLAYED
+V Kohli	0	0	NOT PLAYED
+Z Khan	0	0	NOT PLAYED
+Harbhajan Singh	0	0	NOT PLAYED
+RG Sharma	0	0	NOT PLAYED
+Totalscore	67	Wickets	0
+
